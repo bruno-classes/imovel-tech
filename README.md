@@ -44,7 +44,7 @@ Pré-requisitos necessários para executar seu projeto:
 No seu terminal
 
 ```bash
-git clone your-project-url-in-github
+git https://github.com/bruno-classes/imovel-tech.git
 ```
 
 <h3>Para executar</h3>
@@ -52,7 +52,7 @@ git clone your-project-url-in-github
 No seu terminal
 
 ```bash
-cd project-name
+cd imovel-tech
 npm run dev
 ```
 
