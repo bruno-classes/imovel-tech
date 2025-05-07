@@ -13,11 +13,7 @@
 
 <h2 id="layout">🎨 Layout</h2>
 
-<img src=".github/image1.png" alt="Image Example" width="100%">
-
-<img src=".github/image2.png" alt="Image Example" width="100%">
-
-<img src=".github/image3.png" alt="Image Example" width="100%">
+<img src="./.github/image1.png" alt="Image Example" width="100%">
 
 <h2 id="technologies">💻 Tecnologias</h2>
 
@@ -28,9 +24,7 @@
 - Lucide Icons
 - Date-Fns
 
-<h2 id="started">🚀 Getting started</h2>
-
-Here you describe how to run your project locally
+<h2 id="started">🚀 Como iniciar</h2>
 
 <h3>Pré-requisitos</h3>
 
