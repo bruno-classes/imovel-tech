@@ -13,11 +13,11 @@
 
 <h2 id="layout">🎨 Layout</h2>
 
-<img src="./.github/image1.png" alt="Image Example" width="100%">
+<img src=".github/image1.png" alt="Image Example" width="100%">
 
-<img src="./.github/image2.png" alt="Image Example" width="100%">
+<img src=".github/image2.png" alt="Image Example" width="100%">
 
-<img src="./.github/image3.png" alt="Image Example" width="100%">
+<img src=".github/image3.png" alt="Image Example" width="100%">
 
 <h2 id="technologies">💻 Tecnologias</h2>
 
